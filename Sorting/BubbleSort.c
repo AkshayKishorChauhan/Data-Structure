@@ -34,5 +34,5 @@ int main()
     printf("\n\nSorted Array:\n");
     printArray(arr,n);
     printf("\n\n");
-
+    return 0;
 }
